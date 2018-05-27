@@ -1,4 +1,4 @@
-# annotation-yolo
+# yolo-annotation
 YOLO-style annotation tool for preparing dataset of a new object from videos directly
 
 This program can be used to prepare/ annotate new class in ![YOLO](https://github.com/pjreddie/darknet)     
