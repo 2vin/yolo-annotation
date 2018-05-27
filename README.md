@@ -15,6 +15,9 @@ This program can be used to prepare/ annotate new class in ![YOLO](https://githu
 6. Once all the objects of defined class are selected in the image, double press 's' to confirm the selections to be saved.    
 7. This will generate the YOLO-style annotation files for the object from the video.   
 
-# Program in action     
+# Program in action      
 
-    
+![Alt Text](https://raw.githubusercontent.com/2vin/yolo-annotation/master/results/orange.gif)   
+
+The annotated files will be saved like this in the output folder    
+![Alt Text](https://raw.githubusercontent.com/2vin/yolo-annotation/master/results/annotation%20files.png)    
